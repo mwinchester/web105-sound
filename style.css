@@ -1,0 +1,58 @@
+body {
+    font-family: 'Muli', sans-serif;
+}
+
+h2,
+h3 {
+    font-family: font-family: 'Patrick Hand', cursive;
+    color: #130735;
+}
+
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+header {
+    background: #130735;
+    padding: 15px;
+}
+
+.container {
+    max-width: 1060px;
+    min-height: 500px;
+    margin: 10px auto;
+}
+
+aside {
+    width: 20%;
+    min-height: 300px;
+    float: left;
+    padding: 15px;
+    border-right: 1px solid #786CA0;
+    margin-right: 3em;
+}
+
+main {
+    min-height: 300px;
+}
+
+footer {
+    clear: both;
+    border-top: 1px solid #786CA0;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.3em;
+    color: #756716;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #3D2C6B;
+}
